@@ -1,3 +1,5 @@
+""" ----- Task 2 ----- Dice class -----"""
+
 import random as rd
 
 class Dice:
